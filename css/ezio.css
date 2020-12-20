@@ -7,6 +7,18 @@ body{
     margin-top: 10%;
 }
 
+.back{
+    width: 8%;
+    margin-left: 90%;
+    position: fixed;
+    margin-top: -1%;
+}
+
+.back:hover{
+    transform: scale(1.1);
+    transition: all 0.2s;
+}
+
 .art1{
     width: 22%;
     margin-left: 5%;

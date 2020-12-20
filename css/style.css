@@ -4,12 +4,15 @@ body{
 
 video{
     position: fixed;
+    overflow: hidden;
     z-index: -1;
     width: 100%;
-    min-width: 100%;
-    min-height: 100%;
-    overflow: hidden;
-    margin-top: -45%;
+    margin-left: -1%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    height: 100%;
+    top: 0%;
+    left: 1%;
 }
 
 .altair {
