@@ -39,13 +39,15 @@ video{
     margin-left: 5%;
     margin-top: 2.5%;
 }
-/*
-.assasins{
+.head3k {
     width: 10%;
     margin-left: 5%;
-    margin-top: 10%;
+    margin-top: 2.5%;
 }
-*/
+
+.assasins{
+}
+
 .altair:hover{
     transform: scale(1.5);
     transition: all 0.5s;
@@ -63,6 +65,10 @@ video{
     transition: all 0.5s;
 }
 .arno:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+.head3k:hover{
     transform: scale(1.5);
     transition: all 0.5s;
 }
